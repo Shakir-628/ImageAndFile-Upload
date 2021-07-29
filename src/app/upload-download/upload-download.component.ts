@@ -51,7 +51,6 @@ downloadImage(data) {
     });  
 }  
 onExpSubmit() {  
-    debugger;  
     if (this.saveFileForm.invalid) {  
         return;  
     }  
